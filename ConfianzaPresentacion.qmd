@@ -1,0 +1,79 @@
+---
+title: "Confianza en partidos politicos segun rango etario"
+author: "Borja Saldivia y Vicente Godoy"
+format:  
+ revealjs: 
+    theme: beige
+editor: visual
+title-slide-attributes:
+    title-slide-attributes:
+    data-background-image: input/Puntos y lineas.jpg 
+    data-background-size: contain
+---
+
+## Introducción
+
+::: incremental
+-   *El trabajo trata de la confianza en los partidos políticos en Chile y su variación en torno a los grupos etarios del país.*
+-   Se investigo la confianza en los partidos políticos según el grupo etario, entendiendo por ello *el nivel de confianza que las distintas generaciones expresan hacia los partidos.*
+-   Esto resulta relevante puesto que los partidos politicos operan como un organismo influyente en la acción colectiva, en el sentido de tener suficiente capacidad de persuadir a las personas a actuar de acuerdo a determinadas normas (Irarrázaval & Cruz, 2023).
+:::
+
+## Primer Trabajo
+
+::::: columns
+::: {.column width="40%"}
+Para el primer trabajo, realizamos un análisis descriptivo, entendiendo el concepto de confianza como una *relación bidireccional* entre el gobierno y ciudadanía (OECD, 2024). 
+:::
+
+::: {.column width="50%"}
+El hallazgo principal arroja el siguiente resultado: se registra que, a nivel general, la población parece tener *poca* o *ninguna* confianza en los partidos políticos, siendo solamente las mujeres entre 30 y 59 años las que marginalmente confían un poco más en los partidos políticos.
+:::
+:::::
+
+## Imagen 1
+
+![](https://github.com/Jefrad/CPP/blob/main/Output/percepci%C3%B3n%20promedio%20con%20intervalos%20del%2095%25.png?raw=true)
+
+## Segundo Trabajo
+
+::::: columns
+::: {.column width="50%"}
+El segundo trabajo apunto al reforzamiento de las variables utilizadas en la primera entrega a fin de aportar mayor detalle al trabajo previo. La idea detrás, es explorar cómo la percepción de estos grupos varía en torno al rango etario, para así contrastar con los resultados del trabajo anterior.
+:::
+
+::: {.column width="50%"}
+Se observa que el contento es mayoritariamente bajo en los tres grupos etarios, concentrándose en *poco* y *algo*. Esto último resulta interesante, puesto que las personas creen en la democracia, pero sin embargo están insatisfechos con ella.
+:::
+:::::
+
+## Imagen 2
+
+![](https://github.com/Jefrad/TrabajoN-3/blob/main/Trabajo-3_files/figure-html/Analisis%20descriptivo-3.png?raw=true){width="1260"}
+
+## Tercer Trabajo
+
+::::: columns
+::: {.column width="40%"}
+Se realizo una regresión lineal y un reporte dinamico en base a los resultados de los 2 trabajos anteriores, junto con la visualización e interpretación estos datos.
+:::
+
+::: {.column width="60%"}
+El hallazgo de el ultimo trabajo fue la diferencia entre los grupos es muy leve; en el grupo de los jóvenes el valor predicho de confianza es el más bajo; el grupo de adultos mayores presenta la predicción más alta, aunque la diferencia es poca.
+:::
+:::::
+
+## Imagen 3
+
+![](https://raw.githubusercontent.com/Jefrad/TrabajoN-3/refs/heads/main/Trabajo-3_files/figure-html/Analisis%20descriptivo-1.png)
+
+## Conclusión
+
+En la primera entrega se observó que en general, el nivel de confianza en los partidos políticos es bajo en todas las generaciones; en la segunda entrega, con la incorporación de nuevas variables (simpatía por el autoritarismo y satisfacción con la democracia) se detectó un rechazo al autoritarismo seguido de una satisfacción democrática mayoritariamente baja en los tres grupos etarios; en la tercera entrega y con la implementación de valores predichos se identificaron diferencias leves entre los niveles de confianza: los jóvenes presentan niveles más bajos de confianza, mientras que los adultos mayores se observa que tienden a confiar un poco más, aunque las diferencias no son significativas.
+
+En conclusión, la confianza hacia los partidos políticos, en todos los grupos etarios, es baja.
+
+## Bibliografía
+
+Irarrázaval, I., & Cruz, F. (2023). Confianza institucional en Chile: un desafío para el desarrollo\
+OECD. (2024). Los determinantes de la confianza en las instituciones públicas de Chile.\
